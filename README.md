@@ -1,0 +1,1 @@
+This repository demonstrates a peculiar issue where a CSS `background-image` property fails to render a valid data URI.  The data URI is confirmed to be correct and functions correctly in alternative contexts (such as within an `<img>` tag). The solution offers a workaround, potentially highlighting a browser-specific quirk or subtle incompatibility.
